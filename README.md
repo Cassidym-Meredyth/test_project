@@ -13,6 +13,9 @@
 
 ### Решение
 1.	Создай директорию test-project - ✅
+```cmd
+mkdir -p test-project
+```
 2.	Внутри создай файл Dockerfile для образа на основе nginx:alpine - ✅
 ```Dockerfile
 FROM nginx:alpine
